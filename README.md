@@ -4,4 +4,7 @@
 
 ### Here are some of my projects, I hope you can find something cool and useful.
 
+ <img src="https://img.shields.io/badge/charleseduardo.me%40gmail.com-red">
+
+<br />
 Thanks for visiting.
