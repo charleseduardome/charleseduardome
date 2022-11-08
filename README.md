@@ -6,5 +6,3 @@
 
  <img src="https://img.shields.io/badge/charleseduardo.me%40gmail.com-red">
 
-<br />
-Thanks for visiting.
