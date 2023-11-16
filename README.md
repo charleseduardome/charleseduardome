@@ -6,3 +6,8 @@
 
  <img src="https://img.shields.io/badge/charleseduardo.me%40gmail.com-red">
 
+## Demos
+
+- [Youtube Shadowing](https://youtube-shadowing.vercel.app) 
+- [The movieDB](https://the-movie-db-with-redux.netlify.app) [Repo](https://github.com/charleseduardome/TheMovieDB)
+
